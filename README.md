@@ -1,4 +1,5 @@
-# myCDN
+## myCDN ##
 CDN Managing repo
 
-"jquery-scrollie" is a tool to detect the element shown in the view. [Introduction](http://hackersome.com/p/pntrivedy/jquery-scrollie)
+### jquery-scrollie ###
+Is a tool to detect the element shown in the view. [Introduction](http://hackersome.com/p/pntrivedy/jquery-scrollie)
